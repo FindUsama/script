@@ -1,5 +1,7 @@
 
   document.addEventListener('DOMContentLoaded', function() {
+
+     console.log('Script is running!')
     // Create the banner element
     var banner = document.createElement('div');
     banner.innerText = '🚀 Special Announcement! Limited-time offer!';
